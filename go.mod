@@ -290,3 +290,5 @@ retract (
 	// do not use
 	v0.43.0
 )
+
+replace github.com/rollkit/rollkit => github.com/smuu/rollkit-rollkit v0.0.0-20230610172714-b8c855d7ca34

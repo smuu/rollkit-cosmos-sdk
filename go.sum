@@ -1286,8 +1286,6 @@ github.com/rollkit/celestia-openrpc v0.0.0-20230531022214-505ff801e818 h1:L7WGAG
 github.com/rollkit/celestia-openrpc v0.0.0-20230531022214-505ff801e818/go.mod h1:eDBRyA4NoVLTGRXUxMb50/sW456UIptRAqixUqocg3Q=
 github.com/rollkit/cometbft v0.0.0-20230524013049-75272ebaee38 h1:NXreFMbkn0zql+t9OjZhybitFygfx6qOI73D1Eb+JxE=
 github.com/rollkit/cometbft v0.0.0-20230524013049-75272ebaee38/go.mod h1:odqD7bL9gx8+eL8jtQIzA/sUOLJF+eZ2aFfztIcHJkw=
-github.com/rollkit/rollkit v0.8.1 h1:VVr3gTY/wW2/B7aSkr9W/qP+e+2Ol3IcmKDLzoOpucE=
-github.com/rollkit/rollkit v0.8.1/go.mod h1:rD9Nqkf9DdUd0xRsDFTp/p8v/JMkCuMZhgRKRHh/tNc=
 github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.9.0 h1:l9HGsTsHJcvW14Nk7J9KFz8bzeAWXn3CG6bgt7LsrAE=
 github.com/rs/cors v1.9.0/go.mod h1:XyqrcTp5zjWr1wsJ8PIRZssZ8b/WMcMf71DJnit4EMU=
@@ -1343,6 +1341,8 @@ github.com/smartystreets/goconvey v1.6.4/go.mod h1:syvi0/a8iFYH4r/RixwvyeAJjdLS9
 github.com/smartystreets/goconvey v1.7.2 h1:9RBaZCeXEQ3UselpuwUQHltGVXvdwm6cv1hgR6gDIPg=
 github.com/smartystreets/goconvey v1.7.2/go.mod h1:Vw0tHAZW6lzCRk3xgdin6fKYcG+G3Pg9vgXWeJpQFMM=
 github.com/smola/gocompat v0.2.0/go.mod h1:1B0MlxbmoZNo3h8guHp8HztB3BSYR5itql9qtVc0ypY=
+github.com/smuu/rollkit-rollkit v0.0.0-20230610172714-b8c855d7ca34 h1:t5ALziKB6iSlzzoEfaZ+U5b1cE+PbLfSag4VhGTz5ro=
+github.com/smuu/rollkit-rollkit v0.0.0-20230610172714-b8c855d7ca34/go.mod h1:rD9Nqkf9DdUd0xRsDFTp/p8v/JMkCuMZhgRKRHh/tNc=
 github.com/soheilhy/cmux v0.1.4/go.mod h1:IM3LyeVVIOuxMH7sFAkER9+bJ4dT7Ms6E4xg4kGIyLM=
 github.com/sony/gobreaker v0.4.1/go.mod h1:ZKptC7FHNvhBz7dN2LGjPVBz2sZJmc0/PkyDJOjmxWY=
 github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d/go.mod h1:UdhH50NIW0fCiwBSr0co2m7BnFLdv4fQTgdqdJTHFeE=
